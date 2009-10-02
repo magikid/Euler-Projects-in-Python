@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#I'm the best there ever was!
 
 n = 600851475143
 
